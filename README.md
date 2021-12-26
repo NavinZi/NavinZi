@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NavinZi
+- 👀 I’m interested in Web Developer
+- 🌱 I’m currently learning HTML, CSS, Javascript
